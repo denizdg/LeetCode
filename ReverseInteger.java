@@ -1,5 +1,5 @@
 class Solution {
-    public static int reverse(int x) {
+    public int reverse(int x) {
 
 		long result = 0;
 
