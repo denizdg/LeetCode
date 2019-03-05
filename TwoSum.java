@@ -1,15 +1,8 @@
 import java.util.*;
 
-public class TwoSum {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		int[] example = {2, 7, 11, 15};
-		int[] result = FindSumElements(example , 9);
-	}
+public class Solution {
 	
-	 public static int[] FindSumElements(int[] nums, int target) {
+	 public static int[] twoSum(int[] nums, int target) {
 	        
 	        Map<Integer, Integer> seen = new HashMap<Integer, Integer>(); 
 	        
