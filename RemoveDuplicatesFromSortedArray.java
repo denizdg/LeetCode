@@ -12,7 +12,7 @@
 //		return len;
 //	}
 
-	// the version that LeetCode accepts. Change the first element with the not duplicated elements and after the length the rest of the array looks like junk.
+	// the version that LeetCode accepts. It compare the beginning of the arrays. Change the first element with the not duplicated elements and after the length the rest of the array looks like junk.
 	public static int removeDuplicates(int[] nums) {
 
 		int i = 0;
