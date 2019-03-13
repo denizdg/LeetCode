@@ -1,4 +1,4 @@
-import java.util.*;
+// LeetCode #1
 
 public class Solution {
 	
