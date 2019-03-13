@@ -1,4 +1,6 @@
-	// my version just found the length of the array without duplicates
+// LeetCode #26
+
+// my version just found the length of the array without duplicates
 //	public static int removeDuplicates(int[] nums) {
 //
 //		int len = nums.length;
